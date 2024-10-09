@@ -1,6 +1,5 @@
 ###### EXERCISES_1_EURO (updated 2024.10.03)
 
-###### sir2425 pedro moreira
 
 ---
 
